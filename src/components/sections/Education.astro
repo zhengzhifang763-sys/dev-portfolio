@@ -9,10 +9,15 @@ import { certificates } from "@cv";
 	<ul class="space-y-4 py-3 print:space-y-0">
 		{
 			education.map(({ institution, startDate, endDate, area, url }) => {
-				const startYear = new Date(startDate).getFullYear();
-				const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
-				const years = `${startYear} - ${endYear}`;
-
+			const formatDate = (date: string) => {
+				const parsedDate = new Date(date);
+				return date.length === 7 
+				  ? parsedDate.toLocaleDateString("en-GB", { month: "short", year: "numeric" })
+				  : parsedDate.toLocaleDateString("en-GB", { day: "2-digit", month:"short", year: "numeric" });
+			};
+			const startDisplay = formatDate(startDate);
+			const endDisplay = endDate ? formatDate(endDate) : "Present";
+			const year =  '${startDisplay} - ${endDisplay}';
 				return (
 					<div class="flex items-baseline">
 						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2 hidden h-5 w-5 self-start md:inline-block print:hidden">
@@ -27,7 +32,7 @@ import { certificates } from "@cv";
 								</a>
 							</h3>
 							<div class="text-sm text-skin-muted">{area}</div>
-							<time class="right-0 top-0 text-xs text-skin-muted md:absolute md:block">{years}</time>
+							<time class="right-0 top-0 text-xs text-skin-muted md:absolute md:block">{startDisplay} - {endDisplay}</time>
 						</div>
 					</div>
 				);

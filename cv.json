@@ -1,364 +1,371 @@
 {
-  "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "basics": {
+    "name": "ZhiFang Zheng",
+    "label": "Junior&Junior Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "email": "zhengzhifang763@gmail.com",
+    "phone": "078 336 10 08",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "I am a student with a strong interest in software development,web technologies,and robotics.I enjoy learning new technologies,solving problems,and developing practical skills through hands-on projects.Iam motivated to grow as a developer and explore new opportunities in the technology field.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "Rue du Chene 34",
+      "postalCode": "1315",
+      "city": "La Sarraz",
+      "countryCode": "CH",
+      "region": "Vaud"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
-      {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "zhengzhifang763-sys",
+        "url": "https://github.com/zhengzhifang763-sys"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "KM-RoBoTa SA",
+      "position": "Intern",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Renens, Switzerland",
+      "url": ["https://km-robota.com/",
+              "https://www.moneyhouse.ch/en/company/km-robota-sa-3753540801"
+      ],
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "summary": "Participating in an internship at KM-RoBoTa SA,gaining practical experience in software development",
       "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        ""
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        ""
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Restaurant MoLi",
+      "position": "Restaurant Server(Part-time)",
+      "location_type": "On Site",
+      "location": "La Sarraz, Switzerland",
+      "url": ["https://www.local.ch/fr/d/la-sarraz/1315/restaurant/hotel-restaurant-moli-H1JtCwGiiKoRKZKsAPZDrA",
+              "https://www.lemoli.ch/#restaurant"
+    ],
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Working part-time as a restaurant server on weekends,approximately two dans per week.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Provided friendly customer service.",
+        "Developed communication and teamwork skills.",
+        "Balanced part-time work with studies."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Welcomed customers and assisted them with their needs.",
+        "Served food and beverages to customers.",
+        "Helped maintain a clean and organized dining area."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Adaptability",
+        "Communication",
+        "Teamwork",
+        "Customer Service"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
+      "name": "Buffet de la Gare",
+      "position": "Restaurant Server Intern",
+      "location_type": "On Site",
+      "location": "Le Sentier, Switzerland",
+      "url":["https://www.buffetgaresentier.ch/#menus-du-jour"
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "startDate": "2025-06",
+      "endDate": "2025-06",
+      "summary": "Completed a five-day internshio in a restaurant,gaining parctical experience in food dervice and customer service.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+        "Gained practical experience in restaurant operations.",
+        "Developed customer service and communicaton skills.",
+        "Improved teamwork and adaptability"
+      ],
+      "skills": [
+        "Adaptability",
+        "Communication",
+        "Customer Service",
+        "Teamwork"
+        ]
+    },
+    {
+      "name": "Buffet de la Gare",
+      "position": "Restaurant Server Intern",
+      "location_type": "On Site",
+      "location": "Le Sentier, Switzerland",
+      "url":["https://www.buffetgaresentier.ch/#menus-du-jour"
+  ],
+      "startDate": "2025-07",
+      "endDate": "2025-07",
+      "summary": "Completed a five-day internshio in a restaurant,gaining parctical experience in food dervice and customer service.",
+      "highlights": [
+        "Gained practical experience in restaurant operations.",
+        "Developed customer service and communicaton skills.",
+        "Improved teamwork and adaptability"
+        ],
+        "skills": [
+        "Adaptability",
+        "Communication",
+        "Customer Service",
+        "Teamwork"
+        ]
+    },
+    {
+      "name": "Buffet de la Gare",
+      "position": "Restaurant Server Intern",
+      "location_type": "On Site",
+      "location": "Le Sentier, Switzerland",
+       "url":["https://www.buffetgaresentier.ch/#menus-du-jour"
+  ],
+      "startDate": "2025-01",
+      "endDate": "2025-01",
+      "summary": "Completed a six-day internshio in a restaurant,gaining parctical experience in food dervice and customer service.",
+      "highlights": [ 
+        "Gained practical experience in restaurant operations.",
+        "Developed customer service and communicaton skills.",
+        "Improved teamwork and adaptability"
+      ],
+      "skill": [
+        "Adaptability",
+        "Communication",
+        "Customer Service",
+        "Teamwork"
+        ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+      "institution": "Ecole de Transition(EdT)",
+      "url": "https://www.edtvd.ch/",
+      "area": "Generai Education",
+      "studyType": "Transition Programme",
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "courses": [ 
+        "Franch",
+        "Mathematics",
+        "Geography-History",
+        "Biology" ,
+        "Chemistry",
+        "Sport"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "Ecole de l'Accueil(EdA)",
+      "url": "https://www.edavd.ch/",
+      "area": "Generai Education",
+      "studyType": "Welcome Programme",
+      "startDate": "2024-09-30",
+      "endDate": "2026-06-23",
+      "score": [
+         "France:B1",
+         "Mathematics:6/6"
+      ],
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "Franch",
+        "Mathematics",
+        "Science",
+        "Sport"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "institution": "Fuzhou Chaode Middle School,China",
+      "url": "",
+      "area": "Generai Education",
+      "studyType": "Upper Secondary Education",
+      "startDate": "2022-09-01",
+      "endDate": "2024-08-20",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Mathematics",
+        "English",
+        "Chinese language",
+        "Physics",
+        "Geography",
+        "Chemistry",
+        "Sport"
       ]
+      },
+      {
+      "institution": "Minjiang University Middle School,Fuzhou,China",
+      "url": "https://baike.baidu.com/en/item/Minjiang%20College%20Attached%20Middle%20School/69387",
+      "area": "Generai Education",
+      "studyType": "Lower Secondary Education",
+      "startDate": "2019-09-01",
+      "endDate": "2022-06-30",
+      "courses": [
+        "Mathematics",
+        "English",
+        "Chinese language",
+        "Physics",
+        "Geography",
+        "Chemistry",
+        "History",
+        "Biology" ,
+        "Political",
+         "Sport"   
+        ]
+        },
+    {
+      "institution": "Qunzhong Road Primary Schoo,Fuzhou,China",
+      "area": "Generai Education",
+      "studyType": "Primary Education",
+      "startDate": "2013-09-01",
+      "endDate": "2019-06-30",
+      "courses": [
+        "Mathematics",
+        "English",
+        "Chinese language",
+        "Political"    
+        ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Junior High School Graduation Certificate",
+      "date": "2019-07",
+      "issuer": "Minjiang University Middle School,Fuzhou,China"
+    },
+    {
+      "name": "Primary School Graduation Certificate",
+      "date": "2029-07",
+      "issuer": "Qunzhong Road Primary Schoo,Fuzhou,China"
+    },
+    {
+      "name": "DELF B1 Certificate",
+      "date": "2026-04-13",
+      "issuer": "France Education international"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Microsoft Word",
+      "level": "Intermediate",
       "keywords": [
-        "Design",
-        "UI"
+        "Document Editing",
+        "Text Formation"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "Microsoft Excel",
+      "level": "Basic",
+      "keywords": [
+        "VSpreadsheets",
+        "Data Entry"
+      ]
+    },
+    {
+      "name": "Microsoft PowerPoint",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
+        "Presentations",
+        "Slide Design"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Intermediate",
+      "keywords": [
+        "Costomer Relations",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Intermediate",
+      "keywords": [
         "Collaboration",
-        "Source Code"
+        "Team Communication"
       ]
     },
     {
-      "name": "HTML",
+      "name": "Time Management",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Organization",
+        "Task Planning"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
+     {
+      "language": "Chinese",
+      "fluency": "Native"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "French",
+      "fluency": "B1"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "Arts",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Chinese Painting",
+        "Watercolor Painting",
+        "Calligraphy"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Badminton",
+        "Rock,Climbing"
+      ]
+    },
+    {
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Hiking",
+        "Mountain Hiking"
+      ]
+    },
+    {
+      "name": "Cooking & Baking",
+      "keywords": [
+        "Baking",
+        "Pastry Making"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Western Flute",
+        "Chinese Bamboo Flute"
       ]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Rolf Dubs",
+      "reference": "Class Teacher,Ecole de Transition,Morges",
+      "phone":"076 321 81 21"
+    },
+     {
+      "name": "Melanie Demierre",
+      "reference": "Career Guidance Counsellor,Ecole de Transition,Morges",
+      "phone":"079 968 43 13"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Personal CV Website",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Developing a personal CV website to present my education,work experience, skills and intereste.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Building a personal website using Astro",
+        "Editing and organizing website content with JSON",
+        "Learning web developmnet through hands-on practice"
       ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "",
+      "github": "https://github.com/zhengzhifang763-sys/dev-portfolio"
     }
   ]
 }
