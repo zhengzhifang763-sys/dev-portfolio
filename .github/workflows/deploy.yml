@@ -1,12 +1,11 @@
 
 name: Deploy CV Website
+
 on:
-push:
-branches:
-
-        main
-        workflow_dispatch:
-
+  push:
+    branches:
+      - main
+    workflow_dispatch:
 permissions:
 contents: read
 pages: write
